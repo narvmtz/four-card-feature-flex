@@ -16,8 +16,6 @@ Your users should:
 
 - View the optimal layout for the site depending on their device's screen size
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
 
 ## Deploying your project
 
