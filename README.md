@@ -19,4 +19,4 @@ Your users should:
 
 ## Deploying your project
 
-Project deployed at: four-card-feature-flex.now.sh
+Project [deployed](https://four-card-feature-flex.now.sh)
